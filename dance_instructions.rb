@@ -20,5 +20,8 @@ def skip_step_right
   puts "Right, Left, Right and Right"
 end
 
-def 
+def bob_the_reins
+  puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right write over your left and hold them together"
+  puts " "
 # Code your methods below
