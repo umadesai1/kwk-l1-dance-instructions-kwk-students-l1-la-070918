@@ -1,3 +1,3 @@
-def gangnam_style
-  puts ""
+def dance_instructions
+  puts "
 # Code your methods below
